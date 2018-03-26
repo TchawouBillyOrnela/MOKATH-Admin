@@ -1,4 +1,4 @@
-# MOKATH Administration repository
+# MOKATH Administration Repository
 
 You'll find here all administration notes, schema and documents for the UniKnowledge project of the MOKATH Team.
 
