@@ -6,24 +6,24 @@ You'll find here all administration notes, schema and documents for the UniKnowl
 
 * Terry Vogelsang (Project Manager / Lead Developer / Supreme Leader)
 
-GitHub : terryvogelsang
+	* GitHub : terryvogelsang
 
 * Matteo Besançon (System Administrator)
 
-GitHub : matteo113
+	* GitHub : matteo113
 
 * Ornela Tchawou Billy (Frontend Web Developer)
 
-GitHub : TchawouBillyOrnela
+	* GitHub : TchawouBillyOrnela
 
 * Amir Hossein Heidari (Frontend Web Developer)
 
-GitHub : amir74
+	* GitHub : amir74
 
 * Karine Zuercher (Backend Developer)
 
-GitHub : zuerchk3
+	* GitHub : zuerchk3
 
 * Heloy Estevanin Leal (Backend Developer)
 
-GitHub : suxlelo
+	* GitHub : suxlelo
