@@ -27,3 +27,7 @@ You'll find here all administration notes, schema and documents for the UniKnowl
 * Heloy Estevanin Leal (Backend Developer)
 
 	* GitHub : suxlelo
+
+## Timeline
+
+![Uniknowledge Project Timeline](https://raw.githubusercontent.com/unige-pinfo-2018/MOKATH-Admin/master/docs/organisation/timeline.png)
