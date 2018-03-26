@@ -30,4 +30,6 @@ You'll find here all administration notes, schema and documents for the UniKnowl
 
 ## Timeline
 
+<br>
+
 ![Uniknowledge Project Timeline](https://raw.githubusercontent.com/unige-pinfo-2018/MOKATH-Admin/master/docs/organisation/timeline.png)
